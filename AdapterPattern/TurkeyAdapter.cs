@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AdapterPattern
+﻿namespace AdapterPattern
 {
     public class TurkeyAdapter : IDuck
     {

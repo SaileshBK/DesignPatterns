@@ -1,5 +1,3 @@
-using System;
-
 namespace FlyweightPattern
 {
     public class BubbleMilkTea : IBeverage

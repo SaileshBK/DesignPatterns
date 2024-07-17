@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ProxyPattern
+﻿namespace ProxyPattern
 {
     class Program
     {

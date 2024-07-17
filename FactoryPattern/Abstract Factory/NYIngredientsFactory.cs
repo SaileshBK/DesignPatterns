@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace FactoryPattern
+﻿namespace FactoryPattern
 {
     internal class NyIngredientsFactory : IIngredientsFactory
     {

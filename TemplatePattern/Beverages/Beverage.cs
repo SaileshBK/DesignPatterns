@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TemplatePattern
+﻿namespace TemplatePattern
 {
     public abstract class Beverage
     {

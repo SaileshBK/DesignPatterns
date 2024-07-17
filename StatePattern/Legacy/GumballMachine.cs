@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StatePattern.Legacy
+﻿namespace StatePattern.Legacy
 {
     public class GumballMachine
     {

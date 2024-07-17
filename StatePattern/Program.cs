@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StatePattern
+﻿namespace StatePattern
 {
     static class Program
     {

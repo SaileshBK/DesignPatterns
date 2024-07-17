@@ -1,5 +1,3 @@
-using System;
-
 namespace VisitorPattern
 {
     public class StudioVisitor : IUnitVisitor

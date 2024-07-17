@@ -1,5 +1,3 @@
-using System;
-
 namespace BridgePattern
 {
     public class SoulEatingEnchantment : IEnchantment

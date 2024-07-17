@@ -1,5 +1,3 @@
-using System;
-
 namespace MediatorPattern
 {
     class Tester : Colleague

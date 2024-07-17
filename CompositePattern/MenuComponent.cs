@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CompositePattern
+﻿namespace CompositePattern
 {
     public class MenuComponent
     {

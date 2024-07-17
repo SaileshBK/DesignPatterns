@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BuilderPattern
+﻿namespace BuilderPattern
 {
     class Program
     {

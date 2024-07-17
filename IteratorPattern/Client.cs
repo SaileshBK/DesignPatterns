@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 
 namespace IteratorPattern
 {
@@ -27,7 +26,7 @@ namespace IteratorPattern
             foreach (var item in iter)
             {
                 var i = (Menu)item;
-                Console.WriteLine($"{i.Name}  Rs. {i.Price} {  (i.Vegetarian ? "*" : "x") } \n {i.Description} ");
+                Console.WriteLine($"{i.Name}  Rs. {i.Price} {(i.Vegetarian ? "*" : "x")} \n {i.Description} ");
 
             }
         }

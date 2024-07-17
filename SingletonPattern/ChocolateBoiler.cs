@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SingletonPattern
+﻿namespace SingletonPattern
 {
     internal partial class ChocolateBoiler
     {

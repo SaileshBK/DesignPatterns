@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using TemplatePattern.Comparable;
+﻿using TemplatePattern.Comparable;
 
 namespace TemplatePattern
 {

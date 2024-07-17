@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace PrototypePattern
+﻿namespace PrototypePattern
 {
     class Program
     {

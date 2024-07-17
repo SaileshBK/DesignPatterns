@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FacadePattern
+﻿namespace FacadePattern
 {
     public class Dimmer
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TemplatePattern.Comparable
+﻿namespace TemplatePattern.Comparable
 {
     class Person : IComparable
     {

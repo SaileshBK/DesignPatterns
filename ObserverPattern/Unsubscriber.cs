@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ObserverPattern
+﻿namespace ObserverPattern
 {
     internal class Unsubscriber<TWeather> : IDisposable
     {

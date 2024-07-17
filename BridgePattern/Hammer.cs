@@ -1,5 +1,3 @@
-using System;
-
 namespace BridgePattern
 {
     public class Hammer : IWeapon

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FacadePattern
+﻿namespace FacadePattern
 {
     internal static class Program
     {

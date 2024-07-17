@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SingletonPattern
+﻿namespace SingletonPattern
 {
     static class Program
     {

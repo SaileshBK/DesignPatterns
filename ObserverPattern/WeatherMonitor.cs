@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ObserverPattern
+﻿namespace ObserverPattern
 {
     sealed class WeatherMonitor : IObserver<Weather>
     {

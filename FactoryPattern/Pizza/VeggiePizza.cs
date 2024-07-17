@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FactoryPattern
+﻿namespace FactoryPattern
 {
     class VeggiePizza : Pizza
     {

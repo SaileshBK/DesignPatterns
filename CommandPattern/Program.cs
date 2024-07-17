@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CommandPattern
+﻿namespace CommandPattern
 {
     internal static class Program
     {

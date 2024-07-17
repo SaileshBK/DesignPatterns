@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ObserverPattern
+﻿namespace ObserverPattern
 {
     class WeatherSupplier : IObservable<Weather>
     {

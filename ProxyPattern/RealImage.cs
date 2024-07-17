@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ProxyPattern
+﻿namespace ProxyPattern
 {
 
     public class RealImage : Image

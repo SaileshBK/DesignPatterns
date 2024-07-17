@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DecoratorPattern
+﻿namespace DecoratorPattern
 {
     static class Program
     {

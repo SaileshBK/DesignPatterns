@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TemplatePattern
+﻿namespace TemplatePattern
 {
     class Tea : Beverage
     {
