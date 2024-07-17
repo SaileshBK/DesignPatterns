@@ -1,12 +1,11 @@
-namespace MediatorPattern
-{
-    class Customer : Colleague
-    {
-        public Customer(Mediator mediator) : base(mediator) { }
+namespace MediatorPattern;
 
-        public override void Notify(string message)
-        {
-            Console.WriteLine($"Message to customer: {message}");
-        }
+class Customer : Colleague
+{
+    public Customer(Mediator mediator) : base(mediator) { }
+
+    public override void Notify(string message)
+    {
+        Console.WriteLine($"Message to customer: {message}");
     }
 }

@@ -1,10 +1,9 @@
-﻿namespace Ducks
+﻿namespace Ducks;
+
+class QuackSqueak : IQuackBehaviour
 {
-    class QuackSqueak : IQuackBehaviour
+    public void Quack()
     {
-        public void Quack()
-        {
-            Console.WriteLine("Squeeeak");
-        }
+        Console.WriteLine("Squeeeak");
     }
 }

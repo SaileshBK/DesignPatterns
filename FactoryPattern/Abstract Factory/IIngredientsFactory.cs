@@ -1,11 +1,10 @@
-﻿namespace FactoryPattern
+﻿namespace FactoryPattern;
+
+interface IIngredientsFactory
 {
-    interface IIngredientsFactory
-    {
-        IDough CreateDough();
-        IEnumerable<IVeggies> CreateVeggies();
-        ISauce CreateSauce();
-        ICheese CreateCheese();
-        IClam CreateClam();
-    }
+    IDough CreateDough();
+    IEnumerable<IVeggies> CreateVeggies();
+    ISauce CreateSauce();
+    ICheese CreateCheese();
+    IClam CreateClam();
 }

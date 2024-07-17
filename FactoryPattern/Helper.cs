@@ -1,12 +1,11 @@
-﻿namespace FactoryPattern
-{
-    internal class Helper
-    {
-    }
+﻿namespace FactoryPattern;
 
-    internal enum PizzaType
-    {
-        Cheese,
-        Clam
-    }
+internal class Helper
+{
+}
+
+internal enum PizzaType
+{
+    Cheese,
+    Clam
 }
